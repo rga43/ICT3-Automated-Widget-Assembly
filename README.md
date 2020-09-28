@@ -1,4 +1,8 @@
 # ICT3-Automated-Widget-Assembly
+FALL 2018
+Simon Fraser University Course Project 
+MSE 310 Introduction to Electro-Mechanical Sensors and Actuators
+
 This project aims to simulate a typical industrial automation system utilizing the Industrial Control System 3 (ICT3) Unit made by Bytronics. The Industrial Control System 3 combines different functions such as sorting of metal pegs/ plastic rings, widget assembly, inspection and accepting and rejection processes. The ICT3 unit is a small representation of the magnitude of an industrial automation system that can be controlled by a PC and connected to any commonly available PLCs. The entire system is fitted with chain/belt conveyors, 24V direct current actuators, and various industrial sensors for sorting and other system functions. For this project, the overall system is programmed with LabVIEW software by National Instruments.
 This project aims to simulate a typical industrial automation system utilizing the Industrial Control System 3 (ICT3) Unit made by Bytronics. The Industrial Control System 3 combines different functions such as sorting of metal pegs/ plastic rings, widget assembly, inspection and accepting and rejection processes. The ICT3 unit is a small representation of the magnitude of an industrial automation system that can be controlled by a PC and connected to any commonly available PLCs. The entire system is fitted with chain/belt conveyors, 24V direct current actuators, and various industrial sensors for sorting and other system functions. For this project, the overall system is programmed with LabVIEW software by National Instruments.
 
